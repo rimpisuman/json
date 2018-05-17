@@ -1,0 +1,23 @@
+[
+	{
+	"name":"Rimpi Suman",
+	"address":"57,Taworri Crecent,werribee,3030",
+	"gender":"Female",
+	"designation":"Front-End Developer",
+	"age":"29"
+	},
+	{
+	"name":"Sunny",
+	"address":"57,Taworri Crecent,werribee,3030",
+	"gender":"Male",
+	"designation":"Front-End Developer",
+	"age":"30"
+	},
+	{
+	"name":"John smith",
+	"address":"656,Edsel road,Shermal Oak,3032",
+	"gender":"Male",
+	"designation":"Manager",
+	"age":"40"
+	}
+	]
